@@ -4,11 +4,11 @@ Crown Clothing
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/coreybailey07/crown-clothing?include_prereleases)
 ![GitHub issues](https://img.shields.io/github/issues/coreybailey07/crown-clothing)
 
-[Crown Clothing](https://coreybailey07.github.io/crown-clothing) is a massive E-commerce application. 
+[Crown Clothing](https://coreybailey07.github.io/crown-clothing) is a excercise in building a massive E-commerce application using React. 
 
 ## About
 
-Crown Clothing is built using ReactJS and the following technologies..
+Crown Clothing touches on or uses the following technologies..
 - React Router
 - Redux
 - Redux Saga
