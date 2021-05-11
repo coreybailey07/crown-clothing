@@ -4,7 +4,7 @@ Crown Clothing
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/coreybailey07/crown-clothing?include_prereleases)
 ![GitHub issues](https://img.shields.io/github/issues/coreybailey07/crown-clothing)
 
-[Crown Clothing](https://coreybailey07.github.io/crown-clothing) is a course project in building massive E-commerce applications using React. 
+[Crown Clothing](https://github.com/coreybailey07/crown-clothing) is a course project in building massive E-commerce applications using React. 
 
 ## About
 
