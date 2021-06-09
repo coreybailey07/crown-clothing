@@ -17,11 +17,12 @@ The Crown Clothing project touches on or uses the following technologies..
 - Context API
 - React Suspense + React Lazy
 - Firebase
+- Heroku
 - Stripe API
 - Styled-Components
 - GraphQL
 - Apollo
-- PWAs
+- PWA
 - React Performance
 - React Design Patterns
 - Testing with Jest, Enzyme and Snapshot testing
