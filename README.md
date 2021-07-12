@@ -33,4 +33,4 @@ The Crown Clothing project touches on or uses the following technologies..
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<p><small><em>(Note: Crown Clothing is deployed on Heroku which puts apps to sleep after 30 minutes of inactivity... This impacts initial load time.)</em></small></p>
+<p><em>(Note: Crown Clothing is deployed on Heroku which puts apps to sleep after 30 minutes of inactivity... This impacts initial load time.)</em></p>
