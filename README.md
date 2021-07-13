@@ -8,7 +8,7 @@ Crown Clothing
 
 ## About
 
-The Crown Clothing project touches on or uses the following technologies..
+The Crown Clothing (In progress) will touch on or uses the following technologies..
 - React Router
 - Redux
 - Redux Saga
@@ -18,6 +18,7 @@ The Crown Clothing project touches on or uses the following technologies..
 - React Suspense + React Lazy
 - Firebase
 - Heroku
+- Heroku CLI
 - Stripe API
 - Styled-Components
 - GraphQL
