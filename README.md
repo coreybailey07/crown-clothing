@@ -32,6 +32,6 @@ This project (In progress) touches on or uses the following technologies..
 - State Normalization
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bootstrapped using [Create React App](https://github.com/facebook/create-react-app).
 
-<p><em>(Note: Crown Clothing is deployed on Heroku which sleeps after 30 minutes of inactivity... This impacts initial load time.)</em></p>
+<p><em>(Note: Crown Clothing is deployed on Heroku which sleeps apps after 30 minutes of inactivity... This generally impacts initial load time.)</em></p>
