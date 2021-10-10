@@ -8,7 +8,7 @@ Crown Clothing
 
 ## About
 
-The Crown Clothing (In progress) will touch on or uses the following technologies..
+This project (In progress) touches on or uses the following technologies..
 - React Router
 - Redux
 - Redux Saga
@@ -34,4 +34,4 @@ The Crown Clothing (In progress) will touch on or uses the following technologie
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<p><em>(Note: [Crown Clothing](https://crown-corp.herokuapp.com/) is deployed on Heroku which puts apps to sleep after 30 minutes of inactivity... This impacts initial load time.)</em></p>
+<p><em>(Note: Crown Clothing is deployed on Heroku which sleeps after 30 minutes of inactivity... This impacts initial load time.)</em></p>
