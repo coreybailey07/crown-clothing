@@ -4,7 +4,7 @@ Crown Clothing
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/coreybailey07/crown-clothing?include_prereleases)
 ![GitHub issues](https://img.shields.io/github/issues/coreybailey07/crown-clothing)
 
-[Crown Clothing](https://crown-corp.herokuapp.com/) is an exercise in building a massive E-commerce application with React.
+[Crown Clothing](https://crown-corp.herokuapp.com/) is an exercise in building a massive E-commerce application using React.
 
 ## About
 
