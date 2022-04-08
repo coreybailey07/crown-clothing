@@ -8,7 +8,7 @@ Crown Clothing
 
 ## About
 
-This project uses or touches on the following technologies..
+This project uses the following technologies..
 - React Router
 - Redux
 - Redux Saga
