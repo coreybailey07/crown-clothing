@@ -2,6 +2,33 @@
   "name": "react-crwn-clothing",
   "version": "0.2.0",
   "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "devDependencies": {
+    "@types/lodash.memoize": "^4.1.6"
+  },
   "dependencies": {
     "@stripe/react-stripe-js": "^1.4.1",
     "@stripe/stripe-js": "^1.15.0",
@@ -34,32 +61,5 @@
     "workbox-routing": "^5.1.4",
     "workbox-strategies": "^5.1.4",
     "workbox-streams": "^5.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "@types/lodash.memoize": "^4.1.6"
   }
 }
