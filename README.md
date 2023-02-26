@@ -4,7 +4,8 @@ Crown Clothing
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/coreybailey07/crown-clothing?include_prereleases)
 ![GitHub issues](https://img.shields.io/github/issues/coreybailey07/crown-clothing)
 
-[Crown Clothing](https://crown-corp.herokuapp.com/) is an exercise in building a massive E-commerce application using React.
+[Crown Clothing](https://crown-corp.netlify.app/) is an exercise in building a massive E-commerce application using React.
+<!-- [Crown Clothing](https://crown-corp.herokuapp.com/) is an exercise in building a massive E-commerce application using React. -->
 
 ## About
 
@@ -34,4 +35,4 @@ This project uses the following technologies..
 
 Bootstrapped using [Create React App](https://github.com/facebook/create-react-app).
 
-<p><em>(Note: Crown Clothing is deployed on Heroku which sleeps apps after 30 minutes of inactivity... This convention impacts initial load time.)</em></p>
+<p><em><s>(Note: Crown Clothing is deployed on Heroku which sleeps apps after 30 minutes of inactivity... This convention impacts initial load time.)</em></s></p>
