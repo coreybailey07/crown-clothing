@@ -1,4 +1,5 @@
 # .github/workflows/main.yml
+name: Daily Contributions
 
 on:
   schedule:
