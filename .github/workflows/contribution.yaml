@@ -1,5 +1,5 @@
 # .github/workflows/main.yml
-name: Daily Contributions
+name: Daily Contribution
 
 on:
   schedule:
@@ -14,4 +14,4 @@ jobs:
     - uses: bcanseco/github-contribution-graph-action@v2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GIT_EMAIL: ${{ secrets.GITHUB_EMAIL }} # replace me
+        GIT_EMAIL: ${{ secrets.GIT_EMAIL }} # replace me
